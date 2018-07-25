@@ -1,0 +1,14 @@
+.container {
+	width:300px;
+	margin:0 auto;
+}
+label {
+	font-size: 24px;
+}
+input {
+	padding:10px;
+}
+div>img {
+	border-radius: 50%;
+}
+div>a {}

@@ -59,7 +59,7 @@ var App = function (_React$Component) {
           React.createElement(
             "label",
             { htmlFor: "searchText" },
-            "Search by user name"
+            "Search by user name :"
           ),
           React.createElement("input", {
             type: "text",
